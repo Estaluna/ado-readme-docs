@@ -26,7 +26,7 @@ Disclaimer
 The app is provided “as is” to the maximum extent permitted by law.
 
 Limitation of liability
-To the maximum extent permitted by law, Soufiane Marghabi is not liable for indirect, incidental, or consequential damages arising from use of the app.
+To the maximum extent permitted by law, Okami Labs ("we", "us") is not liable for indirect, incidental, or consequential damages arising from use of the app.
 
 Termination
 Customers may stop using the app at any time by uninstalling it or removing configuration.
