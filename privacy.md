@@ -3,7 +3,7 @@ Privacy Policy
 Effective date: 26-03-2026
 
 Who we are
-I (Soufiane Marghabi) provide the “ADO-README” app for Atlassian Confluence.
+Okami Labs provides the “ADO-README” app for Atlassian Confluence.
 
 What the app does
 The app allows a Confluence site to display README or any md content from an Azure DevOps repository chosen by the customer.
