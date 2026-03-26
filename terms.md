@@ -32,4 +32,4 @@ Termination
 Customers may stop using the app at any time by uninstalling it or removing configuration.
 
 Contact
-Support: soufiane.marghabi@gmail.com
+Support: s.marghabi@gmail.com
