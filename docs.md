@@ -77,4 +77,4 @@ Once configured, the app will:
 ## Support
 For support, contact:
 
-**s.marghabi@gmail.com**
+**support@okamilabs.dev**
