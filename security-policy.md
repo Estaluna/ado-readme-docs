@@ -1,0 +1,1 @@
+The app follows Atlassian Forge security best practices. Sensitive data such as Azure DevOps Personal Access Tokens (PATs) are stored securely using Forge encrypted storage. No sensitive data is logged or exposed. External requests are made only to trusted Azure DevOps endpoints over HTTPS.
