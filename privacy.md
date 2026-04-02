@@ -41,6 +41,6 @@ Customer controls
 Customers can update or remove configuration and rotate the PAT at any time through the app configuration.
 
 Contact
-For privacy questions, contact: s.marghabi@gmail.com
+For privacy questions, contact: support@okamilabs.dev
 
 This aligns with what your app actually does and with the privacy-policy requirement.  
