@@ -1,7 +1,7 @@
-# Okami Labs – Azure DevOps README for Confluence
+# ADO-README – Azure DevOps README and md files for Confluence
 
 ## Overview
-Okami Labs allows you to display Markdown (.md) files from Azure DevOps repositories directly inside Confluence pages.
+ADO-README allows you to display Markdown (.md) files from Azure DevOps repositories directly inside Confluence pages.
 
 This helps teams keep documentation in sync with their codebase and avoid manual copy-paste.
 
